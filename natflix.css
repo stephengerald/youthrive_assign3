@@ -1,0 +1,86 @@
+#sec1 {
+  padding: 5px 0px;
+}
+#sec1 nav ul li {
+  padding-left: 100px;
+  padding-bottom: 20px;
+  font-size: 20px;
+}
+#sec1 nav ul li a {
+  text-decoration: none;
+}
+#sec1 nav ul {
+  display: flex;
+  list-style: none;
+  
+}  
+#sec1 nav img {
+  height: 60px;
+  padding-left: 10px;
+  padding-right: 200px;
+  padding-top: 5px;
+}
+#sec1 nav {
+  border: 2px solid green;
+  padding: 20px 0px;
+  display: flex;
+}
+#sec1 nav ul li a {
+  color: black;
+  
+}
+#div2 {
+  width: 40%;
+  border: 2px solid green;
+  background-image: url("https://th.bing.com/th/id/OIP.33wkmGay3jtQ7uhNbrX2vgHaNb?w=184&h=334&c=7&r=0&o=5&pid=1.7");
+  background-repeat: no-repeat;
+  background-size: 300px 500px;
+  
+}
+#sec1 nav ul li a span {
+  background-color: crimson;
+  color: white;
+}
+#div1 {
+  flex: 1;
+  border: 2px solid black;
+  padding: 5px;
+  margin-right: 10px;
+}
+#sec2 {
+  display: flex;
+  padding: 10px;
+  height: 510px;
+  border: 2px solid green;
+  margin-top: 30px;
+}
+#div1a {
+  border: 2px solid peru;
+  height: 225px;
+  margin: 5px;
+  display: flex;
+  padding: 5px;
+}
+#div1b {
+  border: 2px solid peru;
+  height: 225px;
+  margin: 5px;
+  display: flex;
+  padding: 5px;
+}
+#div1b img {
+  height: 220px;
+  padding-right: 10px;
+}
+#div1a img {
+  height: 220px;
+  padding-right: 10px;
+}
+#last1 {
+  padding: 10px;
+}
+#last1 button {
+  text-align: center;
+  width: 500px;
+  background-color: rgba(235, 95, 15, 0.952);
+}
